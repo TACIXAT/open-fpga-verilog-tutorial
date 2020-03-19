@@ -1,0 +1,10 @@
+set_io D1 C5        # LED5
+set_io D2 C4        # LED6
+set_io D3 B3        # LED7
+set_io D4 C3        # LED8
+set_io clk_in  J3
+
+
+
+
+
